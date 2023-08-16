@@ -1,0 +1,1602 @@
+[
+  {
+    "path": "/",
+    "score": 0.81,
+    "performance": 0.58,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/2016-federal-employee-viewpoint-survey-results",
+    "score": 0.85,
+    "performance": 0.65,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/2017-federal-employee-viewpoint-survey-results",
+    "score": 0.93,
+    "performance": 0.94,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/2018-federal-employee-viewpoint-survey-results",
+    "score": 0.93,
+    "performance": 0.97,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/2019-federal-employee-viewpoint-survey-results",
+    "score": 0.95,
+    "performance": 0.96,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance",
+    "score": 0.89,
+    "performance": 0.9,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/agency-financial-report",
+    "score": 0.89,
+    "performance": 0.89,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/agency-financial-report/2010-performance-and-accountability-report",
+    "score": 0.92,
+    "performance": 0.92,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports",
+    "score": 0.89,
+    "performance": 0.81,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/budget-documents-congressional-justification",
+    "score": 0.87,
+    "performance": 0.74,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/budget-in-brief",
+    "score": 0.86,
+    "performance": 0.78,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/budget-in-brief/fy-2010-budget-in-brief",
+    "score": 0.88,
+    "performance": 0.85,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/budget-in-brief/fy-2014-budget-in-brief",
+    "score": 0.87,
+    "performance": 0.82,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/budget-in-brief/fy-2016-budget-in-brief",
+    "score": 0.88,
+    "performance": 0.85,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/budget-in-brief/fy-2017-budget-in-brief",
+    "score": 0.88,
+    "performance": 0.93,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.67
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/budget-in-brief/fy-2018-budget-in-brief",
+    "score": 0.89,
+    "performance": 0.9,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/budget-in-brief/fy-2020-budget-in-brief",
+    "score": 0.89,
+    "performance": 0.81,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/budget-in-brief/fy-2022-budget-in-brief",
+    "score": 0.86,
+    "performance": 0.77,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/budget-in-brief/fy-2023-budget-in-brief",
+    "score": 0.89,
+    "performance": 0.9,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/congressional-justification/fy-2008-congressional-justification",
+    "score": 0.9,
+    "performance": 0.93,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/congressional-justification/fy-2009-congressional-justification",
+    "score": 0.9,
+    "performance": 0.92,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/congressional-justification/fy-2010-congressional-justification",
+    "score": 0.91,
+    "performance": 0.95,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/congressional-justification/fy-2011-congressional-justification",
+    "score": 0.87,
+    "performance": 0.8,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/congressional-justification/fy-2012-congressional-justification",
+    "score": 0.92,
+    "performance": 0.94,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/congressional-justification/fy-2014-congressional-justification",
+    "score": 0.89,
+    "performance": 0.9,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/congressional-justification/fy-2017-congressional-justification",
+    "score": 0.88,
+    "performance": 0.84,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/congressional-justification/fy-2019-congressional-justification",
+    "score": 0.91,
+    "performance": 0.89,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/machine-readable-executive-summary-tables",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/summary-of-capital-investments",
+    "score": 0.9,
+    "performance": 0.93,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/summary-of-capital-investments/fy-2014-summary-of-capital-investments",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/summary-of-capital-investments/fy-2016-summary-of-capital-investments",
+    "score": 0.93,
+    "performance": 0.95,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/summary-of-capital-investments/fy-2018-summary-of-capital-investments",
+    "score": 0.93,
+    "performance": 0.97,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/summary-of-capital-investments/fy-2019-summary-of-capital-investments",
+    "score": 0.9,
+    "performance": 0.92,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/summary-of-capital-investments/fy-2020-summary-of-capital-investments",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/summary-of-capital-investments/fy-2021-summary-of-capital-investments",
+    "score": 0.9,
+    "performance": 0.94,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/summary-of-capital-investments/fy-2022-summary-of-capital-investments",
+    "score": 0.89,
+    "performance": 0.9,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/summary-of-capital-investments/fy-2023-summary-of-capital-investments",
+    "score": 0.93,
+    "performance": 0.97,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports/treasury-international-programs-justification-of-appropriations",
+    "score": 0.89,
+    "performance": 0.9,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/climate-action-plan",
+    "score": 0.89,
+    "performance": 0.81,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/good-accounting-obligation-in-government-act-gao-ig-act-reports",
+    "score": 0.9,
+    "performance": 0.85,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/inspector-general-audits-and-investigative-reports",
+    "score": 0.92,
+    "performance": 0.92,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/irs-strategic-operating-plan",
+    "score": 0.89,
+    "performance": 0.9,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/strategic-plan",
+    "score": 0.86,
+    "performance": 0.92,
+    "accessibility": 0.84,
+    "best-practices": 1,
+    "seo": 0.67
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/strategic-plan-archives",
+    "score": 0.88,
+    "performance": 0.92,
+    "accessibility": 0.83,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/strategic-plan/about-the-strategic-plan",
+    "score": 0.87,
+    "performance": 0.9,
+    "accessibility": 0.84,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/strategic-plan/about-the-strategic-plan/accountability-processes",
+    "score": 0.86,
+    "performance": 0.85,
+    "accessibility": 0.85,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/strategic-plan/about-the-strategic-plan/downloads-and-performance-measurement",
+    "score": 0.87,
+    "performance": 0.82,
+    "accessibility": 0.84,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/strategic-plan/about-the-strategic-plan/how-to-use-the-strategic-plan",
+    "score": 0.86,
+    "performance": 0.83,
+    "accessibility": 0.85,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/strategic-plan/about-the-strategic-plan/organizational-structure",
+    "score": 0.85,
+    "performance": 0.81,
+    "accessibility": 0.84,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/strategic-plan/about-the-strategic-plan/understanding-the-landscape",
+    "score": 0.86,
+    "performance": 0.84,
+    "accessibility": 0.84,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/strategic-plan/goals-and-objectives",
+    "score": 0.89,
+    "performance": 0.88,
+    "accessibility": 0.84,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/strategic-plan/goals-and-objectives/goal-1-promote-equitable-economic-growth-and-recovery",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.84,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/strategic-plan/goals-and-objectives/goal-2-enhance-national-security",
+    "score": 0.85,
+    "performance": 0.79,
+    "accessibility": 0.84,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/strategic-plan/goals-and-objectives/goal-3-protect-financial-stability-and-resiliency",
+    "score": 0.89,
+    "performance": 0.96,
+    "accessibility": 0.84,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/strategic-plan/goals-and-objectives/goal-4-combat-climate-change",
+    "score": 0.88,
+    "performance": 0.83,
+    "accessibility": 0.84,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/strategic-plan/goals-and-objectives/goal-5-modernize-treasury-operations",
+    "score": 0.88,
+    "performance": 0.85,
+    "accessibility": 0.84,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/budget-financial-reporting-planning-and-performance/strategic-plan/strategic-plan-fy-2003-2008",
+    "score": 0.89,
+    "performance": 0.95,
+    "accessibility": 0.85,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/bureaus",
+    "score": 0.92,
+    "performance": 0.93,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/careers-at-treasury",
+    "score": 0.9,
+    "performance": 0.93,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/careers-at-treasury/2020-federal-employee-viewpoint-survey-results",
+    "score": 0.95,
+    "performance": 0.96,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/about/careers-at-treasury/2022-federal-employee-viewpoint-survey-results",
+    "score": 0.95,
+    "performance": 0.95,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/about/careers-at-treasury/careers-at-our-bureaus",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/careers-at-treasury/careers-at-our-bureaus/special-career-opportunities",
+    "score": 0.9,
+    "performance": 0.92,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/careers-at-treasury/diversity",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/careers-at-treasury/how-to-apply",
+    "score": 0.91,
+    "performance": 0.95,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/careers-at-treasury/how-to-apply/career-transition-assistance-plan-ctap-and-interagency",
+    "score": 0.91,
+    "performance": 0.95,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/careers-at-treasury/how-to-apply/employment-disabilities",
+    "score": 0.93,
+    "performance": 0.96,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/careers-at-treasury/how-to-apply/employment-frequently-asked-questions",
+    "score": 0.93,
+    "performance": 0.95,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/careers-at-treasury/how-to-apply/employment-getting-started",
+    "score": 0.91,
+    "performance": 0.95,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/careers-at-treasury/how-to-apply/glossary",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/careers-at-treasury/how-to-apply/glossary/status-eligible",
+    "score": 0.93,
+    "performance": 0.95,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/careers-at-treasury/how-to-apply/resume-tips",
+    "score": 0.91,
+    "performance": 0.94,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/careers-at-treasury/nsm-3-finance-and-economic-interagency-policy-committee-ipc",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/careers-at-treasury/pathways-programs/pathways-internships",
+    "score": 0.93,
+    "performance": 0.96,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/careers-at-treasury/pathways-programs/pathways-presidential-management-fellows",
+    "score": 0.9,
+    "performance": 0.91,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/careers-at-treasury/pathways-programs/pathways-recent-graduates",
+    "score": 0.9,
+    "performance": 0.93,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/careers-at-treasury/studentinternship-programs",
+    "score": 0.93,
+    "performance": 0.97,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/careers-at-treasury/studentinternship-programs/domestic-finance-junior-fellowship",
+    "score": 0.92,
+    "performance": 0.92,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/careers-at-treasury/studentinternship-programs/headquarters-student-internship-program",
+    "score": 0.91,
+    "performance": 0.95,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/careers-at-treasury/studentinternship-programs/international-affairs-junior-fellowship",
+    "score": 0.91,
+    "performance": 0.95,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/careers-at-treasury/studentinternship-programs/law-student-internships-headquarters",
+    "score": 0.93,
+    "performance": 0.95,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/careers-at-treasury/studentinternship-programs/pathways-programs",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/careers-at-treasury/top-ten-reasons-to-work-for-treasury",
+    "score": 0.91,
+    "performance": 0.95,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/general-information",
+    "score": 0.93,
+    "performance": 0.97,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/general-information/officials",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/general-information/officials/brent-neiman",
+    "score": 0.92,
+    "performance": 0.94,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/general-information/officials/david-lebryk",
+    "score": 0.89,
+    "performance": 0.88,
+    "accessibility": 0.91,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/general-information/officials/graham-steele",
+    "score": 0.93,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/general-information/officials/janet-yellen",
+    "score": 0.9,
+    "performance": 0.91,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/general-information/officials/jay-shambaugh",
+    "score": 0.92,
+    "performance": 0.91,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/general-information/officials/julie-brinn-siegel",
+    "score": 0.93,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/general-information/officials/lily-adams",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/general-information/officials/nellie-liang",
+    "score": 0.89,
+    "performance": 0.89,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/general-information/orders-and-directives",
+    "score": 0.95,
+    "performance": 0.96,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/about/general-information/orders-and-directives/td25-04",
+    "score": 0.94,
+    "performance": 0.91,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/about/general-information/orders-and-directives/td61-05",
+    "score": 0.92,
+    "performance": 0.91,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/general-information/orders-and-directives/td81-08",
+    "score": 0.93,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/general-information/orders-and-directives/td87-04",
+    "score": 0.93,
+    "performance": 0.95,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/general-information/orders-and-directives/treasury-order-101-18",
+    "score": 0.92,
+    "performance": 0.93,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/general-information/orders-and-directives/treasury-order-107-02",
+    "score": 0.93,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/general-information/orders-and-directives/treasury-order-113-02",
+    "score": 0.95,
+    "performance": 0.94,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/about/general-information/orders-and-directives/treasury-order-145-15",
+    "score": 0.92,
+    "performance": 0.91,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/general-information/organizational-chart",
+    "score": 0.93,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/general-information/role-of-the-treasury",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history",
+    "score": 0.91,
+    "performance": 0.95,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/collection",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/collection/architectural-fragments-in-the-treasury-collection",
+    "score": 0.89,
+    "performance": 0.9,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/collection/architectural-fragments/treasurys-west-wing-1857-1865",
+    "score": 0.92,
+    "performance": 0.92,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/history/collection/architectural-fragments/treasurys-west-wing-1857-1865/history-of-open-spaces-19th-century-masonry-construction",
+    "score": 0.95,
+    "performance": 0.95,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/about/history/collection/architectural-fragments/treasurys-west-wing-1857-1865/stereoscopic-card-room-at-treasury",
+    "score": 0.95,
+    "performance": 0.95,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/about/history/collection/furniture-in-the-treasury-collection",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/collection/furniture/designs-of-the-supervising-architect",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/collection/furniture/san-francisco-mint-furniture",
+    "score": 0.88,
+    "performance": 0.84,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/collection/furniture/san-francisco-mint-today",
+    "score": 0.89,
+    "performance": 0.89,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/collection/paintings-in-the-treasury-collection",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/collection/paintings/abraham-lincoln-portrait",
+    "score": 0.9,
+    "performance": 0.93,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/collection/paintings/jay-cooke-portrait",
+    "score": 0.89,
+    "performance": 0.88,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/collection/paintings/portrait-of-stephen-girard",
+    "score": 0.88,
+    "performance": 0.85,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/collection/paintings/robert-morris-portrait",
+    "score": 0.9,
+    "performance": 0.94,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/collection/paintings/wpa-art-collection",
+    "score": 0.92,
+    "performance": 0.91,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/history/collection/photography-in-the-treasury-collection",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/collection/prints-and-drawings-in-the-treasury-collection",
+    "score": 0.89,
+    "performance": 0.95,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/collection/prints-and-drawings/columbian-frames",
+    "score": 0.88,
+    "performance": 0.94,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/collection/prints-and-drawings/salmon-chase-photo",
+    "score": 0.89,
+    "performance": 0.87,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/collection/sculpture-in-the-treasury-collection",
+    "score": 0.93,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/history/collection/sculpture/treasurys-hamilton-bust",
+    "score": 0.88,
+    "performance": 0.94,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/collection/secretary-of-the-treasury-portraits",
+    "score": 0.93,
+    "performance": 0.97,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/history/curator",
+    "score": 0.9,
+    "performance": 0.93,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/curator/furniture",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/curator/offices-of-the-secretary-of-the-treasury",
+    "score": 0.89,
+    "performance": 0.95,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/curator/the-design-and-construction-of-the-west-stairs",
+    "score": 0.93,
+    "performance": 0.95,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/history/curator/the-history-of-the-locations-of-the-offices-of-the-secretary",
+    "score": 0.9,
+    "performance": 0.94,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/curator/treasury-an-office-buildings-evolution",
+    "score": 0.89,
+    "performance": 0.9,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/curator/treasury-and-the-civil-war-150th-anniversary",
+    "score": 0.92,
+    "performance": 0.93,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/history/curator/treasury-historical-association",
+    "score": 0.9,
+    "performance": 0.92,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/curator/us-mint-buildings",
+    "score": 0.93,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/history/curator/us-mint-buildings/carson-city-mint",
+    "score": 0.9,
+    "performance": 0.91,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/curator/us-mint-buildings/denver-mint",
+    "score": 0.89,
+    "performance": 0.89,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/curator/us-mint-buildings/new-orleans-mint",
+    "score": 0.91,
+    "performance": 0.95,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/curator/us-mint-buildings/philadelphia-mint",
+    "score": 0.89,
+    "performance": 0.89,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/curator/us-mint-buildings/san-francisco-mint",
+    "score": 0.91,
+    "performance": 0.9,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/history/curator/us-mint-buildings/us-mint-introduction",
+    "score": 0.89,
+    "performance": 0.88,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/curator/us-mint-buildings/us-mint-lessons-learned",
+    "score": 0.88,
+    "performance": 0.84,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/freedmans-bank-building",
+    "score": 0.83,
+    "performance": 0.68,
+    "accessibility": 0.9,
+    "best-practices": 0.92,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/history/freedmans-bank-building/financial-panic-of-1873",
+    "score": 0.91,
+    "performance": 0.92,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/history/freedmans-bank-building/freedmans-bank-and-family-histories",
+    "score": 0.91,
+    "performance": 0.95,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/freedmans-bank-building/freedmans-bank-demise",
+    "score": 0.92,
+    "performance": 0.92,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/history/freedmans-bank-building/lasting-impact-of-freedmans-bank",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/freedmans-bank-building/life-of-freedmans-bank",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/history-overview",
+    "score": 0.93,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/history/history-overview/bureaus",
+    "score": 0.88,
+    "performance": 0.84,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/history-overview/departmental-offices",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/history-overview/history-of-the-treasury",
+    "score": 0.88,
+    "performance": 0.84,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/history-overview/organization-and-functions",
+    "score": 0.91,
+    "performance": 0.95,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/prior-secretaries",
+    "score": 0.89,
+    "performance": 0.89,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/prior-secretaries/andrew-w-mellon-1921-1932",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/prior-secretaries/charles-j-folger-1881-1884",
+    "score": 0.89,
+    "performance": 0.9,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/prior-secretaries/george-bruce-cortelyou-1907-1909",
+    "score": 0.9,
+    "performance": 0.92,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/prior-secretaries/joseph-w-barr-1968-1969",
+    "score": 0.9,
+    "performance": 0.92,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/history/prior-secretaries/lot-m-morrill-1876-1877",
+    "score": 0.9,
+    "performance": 0.93,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/prior-secretaries/nicholas-f-brady-1988-1993",
+    "score": 0.9,
+    "performance": 0.85,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/history/prior-secretaries/philip-f-thomas-1860-1861",
+    "score": 0.9,
+    "performance": 0.94,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/prior-secretaries/w-michael-blumenthal-1977-1979",
+    "score": 0.9,
+    "performance": 0.93,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/the-treasury-building",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/the-treasury-building/andrew-johnson-suite",
+    "score": 0.9,
+    "performance": 0.91,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/the-treasury-building/burglar-proof-vault",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/the-treasury-building/salmon-p-chase-suite",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/history/the-treasury-building/secretarys-conference-room-and-diplomatic-reception-room",
+    "score": 0.92,
+    "performance": 0.93,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/history/the-treasury-building/secretarys-conference-room-and-diplomatic-reception-room/seal-of-the-treasury-department",
+    "score": 0.95,
+    "performance": 0.97,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/about/history/the-treasury-building/treasury-cash-room",
+    "score": 0.92,
+    "performance": 0.94,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/history/treasurers-of-the-united-states",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/offices",
+    "score": 0.91,
+    "performance": 0.95,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/offices/diversity-equity-inclusion-and-accessibility/civil-rights-and-equal-employment-opportunity/deia-eeo-and-civil-rights-policies",
+    "score": 0.9,
+    "performance": 0.85,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/offices/diversity-equity-inclusion-and-accessibility/civil-rights-and-equal-employment-opportunity/federally-assisted-programs-and-federally-conducted-programs",
+    "score": 0.93,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/offices/diversity-equity-inclusion-and-accessibility/civil-rights-and-equal-employment-opportunity/treasury-bureau-eeo-officers",
+    "score": 0.88,
+    "performance": 0.84,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/offices/diversity-equity-inclusion-and-accessibility/office-of-minority-and-women-inclusion",
+    "score": 0.9,
+    "performance": 0.94,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/offices/domestic-finance",
+    "score": 0.93,
+    "performance": 0.97,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/offices/domestic-finance/financial-institutions",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/offices/domestic-finance/financial-markets",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/offices/domestic-finance/fiscal-service",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/offices/economic-policy",
+    "score": 0.91,
+    "performance": 0.95,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/offices/equity-hub/TACRE",
+    "score": 0.89,
+    "performance": 0.88,
+    "accessibility": 0.93,
+    "best-practices": 0.92,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/offices/equity-hub/TACRE/tacre-meeting-materials",
+    "score": 0.88,
+    "performance": 0.83,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/offices/general-counsel",
+    "score": 0.9,
+    "performance": 0.91,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/offices/general-counsel/assistant-general-counsel",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/offices/general-counsel/ethics",
+    "score": 0.89,
+    "performance": 0.88,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/offices/general-counsel/inventory-of-treasury-significant-guidance-documents",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/offices/general-counsel/legal-counsel",
+    "score": 0.93,
+    "performance": 0.95,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/offices/international-affairs",
+    "score": 0.9,
+    "performance": 0.93,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/offices/international-affairs/technical-assistance",
+    "score": 0.9,
+    "performance": 0.94,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/offices/international-affairs/technical-assistance/technical-assistance-contacts",
+    "score": 0.9,
+    "performance": 0.94,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/offices/international-affairs/technical-assistance/technical-assistance-organization",
+    "score": 0.92,
+    "performance": 0.93,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/offices/international-affairs/technical-assistance/technical-assistance-project-evaluations",
+    "score": 0.89,
+    "performance": 0.87,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/offices/international-affairs/technical-assistance/technical-assistance-resources",
+    "score": 0.92,
+    "performance": 0.91,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/offices/management",
+    "score": 0.93,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/offices/management/chief-information-officer",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/offices/management/chief-information-officer/chief-information-officer-cio-leadership",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/offices/management/chief-information-officer/cyber-security",
+    "score": 0.9,
+    "performance": 0.93,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/about/offices/management/chief-information-officer/enterprise-infrastructure-operations-services-eios",
+    "score": 0.92,
+    "performance": 0.94,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about/offices/management/chief-information-officer/itstm",
+    "score": 0.9,
+    "performance": 0.93,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.75
+  }
+]
